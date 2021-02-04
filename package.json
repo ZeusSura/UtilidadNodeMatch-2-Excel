@@ -1,0 +1,20 @@
+{
+  "name": "correos",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "convert-excel-to-json": "^1.7.0",
+    "excel4node": "^1.7.2",
+    "ignore-case": "^0.1.0",
+    "json2xls": "^0.1.2",
+    "json2xlsx": "^0.1.6",
+    "nodemon": "^2.0.7"
+  }
+}
